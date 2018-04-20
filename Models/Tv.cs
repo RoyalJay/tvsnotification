@@ -17,13 +17,13 @@ namespace tvsnotification.Models
     public string last_air_date { get; set; }
     public string name { get; set; }
     public List<TvNetwork> networks { get; set; }
-    public int number_of_episodes { get; set; }
-    public int number_of_seasons { get; set; }
+    public int? number_of_episodes { get; set; }
+    public int? number_of_seasons { get; set; }
     public List<string> origin_country { get; set; }
     public string original_language { get; set; }
     public string original_name { get; set; }
     public string overview { get; set; }
-    public int popularity { get; set; }
+    public decimal popularity { get; set; }
     public string poster_path { get; set; }
     public List<object> production_companies { get; set; }
     public List<TvSeason> seasons { get; set; }
