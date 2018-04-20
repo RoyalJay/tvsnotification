@@ -27,9 +27,6 @@ namespace tvsnotification.api
         text = sr.ReadToEnd();
         return Json(text);
       }
-
-
-        return Ok("Controller implementation in progress");
     }
   }
 }
