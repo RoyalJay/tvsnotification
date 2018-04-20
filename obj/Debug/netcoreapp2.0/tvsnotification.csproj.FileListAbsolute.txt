@@ -1,0 +1,10 @@
+C:\sources\src\angularcore\tvsnotification\bin\Debug\netcoreapp2.0\tvsnotification.deps.json
+C:\sources\src\angularcore\tvsnotification\bin\Debug\netcoreapp2.0\tvsnotification.runtimeconfig.json
+C:\sources\src\angularcore\tvsnotification\bin\Debug\netcoreapp2.0\tvsnotification.runtimeconfig.dev.json
+C:\sources\src\angularcore\tvsnotification\bin\Debug\netcoreapp2.0\tvsnotification.dll
+C:\sources\src\angularcore\tvsnotification\bin\Debug\netcoreapp2.0\tvsnotification.pdb
+C:\sources\src\angularcore\tvsnotification\obj\Debug\netcoreapp2.0\tvsnotification.csproj.CoreCompileInputs.cache
+C:\sources\src\angularcore\tvsnotification\obj\Debug\netcoreapp2.0\tvsnotification.AssemblyInfoInputs.cache
+C:\sources\src\angularcore\tvsnotification\obj\Debug\netcoreapp2.0\tvsnotification.AssemblyInfo.cs
+C:\sources\src\angularcore\tvsnotification\obj\Debug\netcoreapp2.0\tvsnotification.dll
+C:\sources\src\angularcore\tvsnotification\obj\Debug\netcoreapp2.0\tvsnotification.pdb
