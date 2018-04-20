@@ -8,3 +8,4 @@ C:\sources\src\angularcore\tvsnotification\obj\Debug\netcoreapp2.0\tvsnotificati
 C:\sources\src\angularcore\tvsnotification\obj\Debug\netcoreapp2.0\tvsnotification.AssemblyInfo.cs
 C:\sources\src\angularcore\tvsnotification\obj\Debug\netcoreapp2.0\tvsnotification.dll
 C:\sources\src\angularcore\tvsnotification\obj\Debug\netcoreapp2.0\tvsnotification.pdb
+C:\sources\src\angularcore\tvsnotification\obj\Debug\netcoreapp2.0\tvsnotification.csprojResolveAssemblyReference.cache
